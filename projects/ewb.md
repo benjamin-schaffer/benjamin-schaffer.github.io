@@ -36,15 +36,15 @@ The engineering challenge is to deliver a **reliable, maintainable, and affordab
 ## Technical Approach
 
 ### Biogas Heating System
-- Conducted **feasibility studies** and system modeling for small-scale biogas production
-- Evaluated organic waste inputs, heat output requirements, and system efficiency
-- Developed prototype concepts for a **low-cost, replicable biogas heating unit**
-- Prioritized simple construction, locally available materials, and ease of maintenance
+- Conduct **feasibility studies** and system modeling for small-scale biogas production
+- Evaluate organic waste inputs, heat output requirements, and system efficiency
+- Develop prototype concepts for a **low-cost, replicable biogas heating unit**
+- Prioritize simple construction, locally available materials, and ease of maintenance
 
 ### Structural Assessment
-- Performed visual and structural assessments of an existing greenhouse
-- Identified areas requiring reinforcement or repair due to weather damage
-- Supported planning for structural remediation alongside energy system integration
+- Perform visual and structural assessments of an existing greenhouse
+- Identify areas requiring reinforcement or repair due to weather damage
+- Support planning for structural remediation alongside energy system integration
 
 Engineering work is conducted through **weekly team meetings**, with guidance from experienced faculty advisors and iterative design reviews.
 
@@ -59,7 +59,8 @@ As **Chapter Representative and Fundraising Lead**, my responsibilities include:
 - Coordinating between student engineers, faculty advisors, and community partners
 - Supporting long-term planning for system deployment, documentation, and training
 
-The project was awarded **1st place (out of 14 applicants)** in the CLACLS Undergraduate Community Project Award, securing **$500 in project funding** to support development efforts.
+- Secured $500 in project funding by earning 1st place (out of 14 applicants) in the CLACLS Undergraduate Community Project Award.  
+  📰 [CLACLS Announces Winners of Inaugural Undergraduate Community Project Award](https://www.umass.edu/news/article/clacls-announces-winners-inaugural-undergraduate-community-project-award)
 
 ---
 

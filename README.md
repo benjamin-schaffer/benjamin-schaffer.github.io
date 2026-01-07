@@ -71,6 +71,12 @@ Projects emphasizing **software-hardware integration and control**.
 
 ---
 
+## Engineering Fundamentals & Analysis
+
+Selected coursework and analysis demonstrating core mechanical engineering fundamentals. (coming soon)
+
+---
+
 ## About This Portfolio
 
 This site serves as a **living portfolio** documenting selected engineering projects.  

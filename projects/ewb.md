@@ -59,8 +59,7 @@ As **Chapter Representative and Fundraising Lead**, my responsibilities include:
 - Coordinating between student engineers, faculty advisors, and community partners
 - Supporting long-term planning for system deployment, documentation, and training
 
-
-- Secured $500 in project funding by earning 1st place (out of 14 applicants) in the CLACLS Undergraduate Community Project Award.  
+In addition, I secured $500 in project funding by earning 1st place (out of 14 applicants) in the CLACLS Undergraduate Community Project Award.  
 
   📰 [CLACLS Announces Winners of Inaugural Undergraduate Community Project Award](https://www.umass.edu/news/article/clacls-announces-winners-inaugural-undergraduate-community-project-award)
 

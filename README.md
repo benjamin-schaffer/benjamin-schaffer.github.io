@@ -21,9 +21,11 @@ Projects involving **technical leadership, systems integration, and cross-functi
   *Project Manager for a 40-member manufacturing enterprise delivering a medical imaging PCB-mount assembly*
 
 - [Collegiate Wind Competition – Turbine Design & Manufacturing](projects/wind.md)  
+
   *Manufacturing design, materials selection, and build/test planning for a competition turbine*
 
 - [Engineers Without Borders – Greenhouse & Biogas Projects](projects/ewb.md)  
+
   *Real-world engineering under cost, resource, and community constraints*
 
 ---

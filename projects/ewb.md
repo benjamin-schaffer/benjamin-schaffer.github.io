@@ -101,6 +101,7 @@ The project aims to balance **technical rigor with human-centered design**, ensu
 
 - 📊 **Project Concept & Progress Slides**  
   *Summarizes system concepts, feasibility considerations, and next steps*  
-  [View slides](https://github.com/benjamin-schaffer/benjamin-schaffer.github.io/blob/main/Simple%20Biogas%20Outline%20Presentation.pdf)
+  [View slides](https://raw.githubusercontent.com/benjamin-schaffer/benjamin-schaffer.github.io/main/Simple%20Biogas%20Outline%20Presentation.pdf
+)
 
 *(Additional images, diagrams, and test data will be added as the project progresses.)*

@@ -94,8 +94,12 @@ The project aims to balance **technical rigor with human-centered design**, ensu
 
 ## Supporting Documentation
 
-- Project goals and community partnership overview  
-- Fundraising and outreach materials  
-- System concepts and feasibility analyses  
+- 📄 **Project Goals & Community Partnership Overview**  
+  *Defines project objectives, constraints, and community context*  
+  [View document](EWB_Project_Overview.pdf)
+
+- 📊 **Project Concept & Progress Slides**  
+  *Summarizes system concepts, feasibility considerations, and next steps*  
+  [View slides](EWB_Project_Slides.pdf)
 
 *(Additional images, diagrams, and test data will be added as the project progresses.)*

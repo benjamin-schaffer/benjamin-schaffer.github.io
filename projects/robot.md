@@ -64,7 +64,7 @@ Engineering decisions were driven by **rule interpretation, risk mitigation, and
   - Maneuverability through tunnels and narrow passages
   - Controlled stopping and putting behavior
   - Reliability across multiple obstacle types
-- Refined mechanical features based on observed failure modes and rule compliance
+  - Refined mechanical features based on observed failure modes and rule compliance
 
 ---
 

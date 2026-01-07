@@ -35,6 +35,7 @@ Projects involving **technical leadership, systems integration, and cross-functi
 Hands-on **component-level design, analysis, and fabrication** projects.
 
 - [Ultralight Bicycle Wrench](projects/wrench.md)  
+
   *SOLIDWORKS, ANSYS, and manual machine shop fabrication*
 
 - *(Future)* Manufacturing fixtures & jigs  
@@ -47,12 +48,15 @@ Hands-on **component-level design, analysis, and fabrication** projects.
 Projects focused on **robotics, embedded systems, and autonomous behavior**.
 
 - [Competitive Robot Design – ASME Student Design Team](projects/robot.md)  
+
   *Mechanical design and electromechanical integration for autonomous competition robot*
 
 - [Autonomous Vehicle – Embedded Systems Project](projects/autonomous.md)  
+
   *Arduino-based sensing, control logic, and obstacle avoidance*
 
 - [Quadcopter UAV](projects/uav.md)  
+
   *3D-printed frame, flight control, and wireless systems*
 
 ---

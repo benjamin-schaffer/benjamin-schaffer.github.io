@@ -21,7 +21,8 @@ Teams are expected to compete in both contests and present to technical reviewer
 
 ## My Role (Technical Lead – Manufacturing Design & Materials)
 
-As the manufacturing design and materials lead, I help drive:
+As the manufacturing design and materials lead, my responsibilities include:
+- Lead a subteam of 8 engineers responsible for manufacturing design, materials selection, and build/test planning
 - Materials and process selection to hit strength/weight and safety goals
 - Mechanical packaging and interface compliance for wind tunnel testing
 - Build documentation and repeatable assembly practices

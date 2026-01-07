@@ -66,8 +66,7 @@ Engineering decisions were driven by **rule interpretation, risk mitigation, and
   - Reliability across multiple obstacle types
 - Refined mechanical features based on observed failure modes and rule compliance
 
-The competition structure rewarded teams that demonstrated **validated designs and reliable operation**, reinforcing the importance of testing and iteration :contentReference[oaicite:2]{index=2}.
-
+The competition structure rewarded teams that demonstrated **validated designs and reliable operation**, reinforcing the importance of testing and iteration
 ---
 
 ## Outcomes & Learning

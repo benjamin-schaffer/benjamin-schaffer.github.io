@@ -51,7 +51,7 @@ Projects focused on **robotics, embedded systems, and autonomous behavior**.
 
   *Mechanical design and electromechanical integration for autonomous competition robot*
 
-- [Autonomous Vehicle – Embedded Systems Project](projects/autonomous.md)  
+- [Autonomous Vehicle – Embedded Systems Project (ECE 361)](projects/autonomous.md)  
 
   *Arduino-based sensing, control logic, and obstacle avoidance*
 

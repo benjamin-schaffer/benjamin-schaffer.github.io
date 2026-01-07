@@ -96,7 +96,8 @@ The project aims to balance **technical rigor with human-centered design**, ensu
 
 - 📄 **Project Goals & Community Partnership Overview**  
   *Defines project objectives, constraints, and community context*  
-  [View document](https://github.com/benjamin-schaffer/benjamin-schaffer.github.io/blob/main/EWB%20Local%20Project%20Goals%2C%20Overview%2C%20%26%20Description%20(1).pdf)
+  [View document](https://raw.githubusercontent.com/benjamin-schaffer/benjamin-schaffer.github.io/main/EWB%20Local%20Project%20Goals%2C%20Overview%2C%20%26%20Description%20(1).pdf
+)
 
 - 📊 **Project Concept & Progress Slides**  
   *Summarizes system concepts, feasibility considerations, and next steps*  

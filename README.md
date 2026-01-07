@@ -12,16 +12,64 @@ Experienced leading large engineering teams and delivering hands-on design, anal
 
 ## Projects
 
-### Mechanical Design & Manufacturing
-- Ultralight Bicycle Wrench
-- Wind Turbine Manufacturing & Materials
-- PCB-Mount Assembly Upgrade
+## Leadership & Systems
 
-### Robotics & Autonomous Systems
-- Competitive Robot Design
-- Autonomous Vehicle - ECE 361
-- Quadcopter UAV
+Projects involving **technical leadership, systems integration, and cross-functional coordination**.
 
-### Leadership & Systems
-- Manufacturing Enterprise – MIE 375
-- Engineers Without Borders Projects
+- [Manufacturing Enterprise – MIE 375](projects/mie375.md)  
+  *Project Manager for a 40-member manufacturing enterprise delivering a medical imaging assembly*
+
+- [PCB-Mount Assembly Upgrade (Medical Imaging)](projects/pcb.md)  
+  *Systems-level design, DFMA decisions, and requirements management*
+
+- [Collegiate Wind Competition – Turbine Design & Manufacturing](projects/wind.md)  
+  *Manufacturing design, materials selection, and build/test planning for a competition turbine*
+
+- [Engineers Without Borders – Greenhouse & Biogas Projects](projects/ewb.md)  
+  *Real-world engineering under cost, resource, and community constraints*
+
+---
+
+## Mechanical Design & Manufacturing
+
+Hands-on **component-level design, analysis, and fabrication** projects.
+
+- [Ultralight Bicycle Wrench](projects/wrench.md)  
+  *SOLIDWORKS, ANSYS, and manual machine shop fabrication*
+
+- *(Future)* Manufacturing fixtures & jigs  
+  *Design for repeatability, tolerance, and manufacturability*
+
+---
+
+## Robotics & Autonomous Systems
+
+Projects focused on **robotics, embedded systems, and autonomous behavior**.
+
+- [Competitive Robot Design – ASME Student Design Team](projects/robot.md)  
+  *Mechanical design and electromechanical integration for autonomous competition robot*
+
+- [Autonomous Vehicle – Embedded Systems Project](projects/autonomous.md)  
+  *Arduino-based sensing, control logic, and obstacle avoidance*
+
+- [Quadcopter UAV](projects/uav.md)  
+  *3D-printed frame, flight control, and wireless systems*
+
+---
+
+## Embedded Systems & Programming
+
+Projects emphasizing **software-hardware integration and control**.
+
+- Arduino-based sensing and automation projects  
+- Embedded C/C++ for real-time control  
+- MATLAB, Simulink, and Python for engineering analysis  
+
+*(Detailed documentation linked within individual project pages)*
+
+---
+
+## About This Portfolio
+
+This site serves as a **living portfolio** documenting selected engineering projects.  
+Projects are added and expanded over time with supporting CAD, analysis, test results, and build documentation.

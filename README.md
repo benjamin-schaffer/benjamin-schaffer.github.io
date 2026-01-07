@@ -16,11 +16,8 @@ Experienced leading large engineering teams and delivering hands-on design, anal
 
 Projects involving **technical leadership, systems integration, and cross-functional coordination**.
 
-- [Manufacturing Enterprise – MIE 375](projects/mie375.md)  
-  *Project Manager for a 40-member manufacturing enterprise delivering a medical imaging assembly*
-
-- [PCB-Mount Assembly Upgrade (Medical Imaging)](projects/pcb.md)  
-  *Systems-level design, DFMA decisions, and requirements management*
+- [Manufacturing Enterprise – Medical Imaging Assembly (MIE 375)](projects/mie375.md)
+  *Project Manager for a 40-member manufacturing enterprise delivering a medical imaging PCB-mount assembly*
 
 - [Collegiate Wind Competition – Turbine Design & Manufacturing](projects/wind.md)  
   *Manufacturing design, materials selection, and build/test planning for a competition turbine*

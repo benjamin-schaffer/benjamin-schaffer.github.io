@@ -22,11 +22,11 @@ Projects involving **technical leadership, systems integration, and cross-functi
 
 - [Collegiate Wind Competition – Turbine Design & Manufacturing](projects/wind.md)  
 
-  *Manufacturing design, materials selection, and build/test planning for a competition turbine*
+  *Technical Lead for manufacturing design, materials selection, and build/test planning of a competition turbine*
 
 - [Engineers Without Borders – Greenhouse & Biogas Projects](projects/ewb.md)  
 
-  *Real-world engineering under cost, resource, and community constraints*
+  *Chapter Representative & Fundraising Lead for community-based renewable energy and structural projects*
 
 ---
 

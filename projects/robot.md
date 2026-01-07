@@ -31,7 +31,7 @@ The robot was required to:
 - Perform controlled “putts” and ball manipulation without bulldozing or transferring momentum illegally
 - Complete as many obstacles as possible within a **10-minute time limit**
 
-Design validation, testing discipline, and time management were explicitly rewarded in competition scoring :contentReference[oaicite:1]{index=1}.
+Design validation, testing discipline, and time management were explicitly rewarded in competition scoring
 
 ---
 

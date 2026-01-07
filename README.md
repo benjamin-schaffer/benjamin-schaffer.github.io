@@ -73,9 +73,7 @@ Projects emphasizing **software-hardware integration and control**.
 
 ## Engineering Fundamentals & Analysis
 
-Selected coursework and analysis demonstrating core mechanical engineering fundamentals. 
-
-- (coming soon)
+*(Future)* Selected coursework and analysis demonstrating core mechanical engineering fundamentals. 
 
 ---
 

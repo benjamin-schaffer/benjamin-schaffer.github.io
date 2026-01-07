@@ -18,7 +18,7 @@ Experienced leading large engineering teams and delivering hands-on design, anal
 
 ### Robotics & Autonomous Systems
 - Competitive Robot Design
-- Autonomous Vehicle
+- Autonomous Vehicle - ECE 361
 - Quadcopter UAV
 
 ### Leadership & Systems

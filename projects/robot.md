@@ -2,7 +2,7 @@
 
 **Organization:** ASME Student Design Competition (SDC)  
 **Competition Theme:** Robot Mini Golf (2023–2024)  
-**Role:** Mechanical Design Team Member  
+**Role:** Drivetrain Mechanical Design Team Member  
 **Focus Areas:** Mechanical design, electromechanical integration, design under constraints
 
 ---

@@ -18,7 +18,7 @@ Projects involving **technical leadership, systems integration, and cross-functi
 - [Manufacturing Enterprise – Medical Imaging Assembly (MIE 375)](projects/mie375.md)
 
   *Project Manager for a 40-member manufacturing enterprise delivering a medical imaging PCB-mount assembly*
-  Documentation forthcoming
+  - Documentation forthcoming
 
 - [Collegiate Wind Competition – Turbine Design & Manufacturing](projects/wind.md)  
 
@@ -37,7 +37,7 @@ Hands-on **component-level design, analysis, and fabrication** projects.
 - [Ultralight Bicycle Wrench](projects/wrench.md)  
 
   *SOLIDWORKS, ANSYS, and manual machine shop fabrication*
-  Documentation forthcoming
+  - Documentation forthcoming
 
 - *(Future)* Manufacturing fixtures & jigs  
   *Design for repeatability, tolerance, and manufacturability*
@@ -55,12 +55,12 @@ Projects focused on **robotics, embedded systems, and autonomous behavior**.
 - [Autonomous Vehicle – Embedded Systems Project (ECE 361)](projects/autonomous.md)  
 
   *Arduino-based sensing, control logic, and obstacle avoidance*
-  Documentation forthcoming
+  - Documentation forthcoming
 
 - [Quadcopter UAV](projects/uav.md)  
 
   *3D-printed frame, flight control, and wireless systems*
-  Documentation forthcoming
+  - Documentation forthcoming
 
 ---
 

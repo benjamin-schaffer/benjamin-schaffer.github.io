@@ -2,6 +2,7 @@
 
 
 Mechanical Engineering student focused on **manufacturing, systems integration, and robotics.**
+
 Experienced leading both small and large engineering teams while delivering hands-on design, analysis, and fabrication projects.
 
 📄 [Resume](https://raw.githubusercontent.com/benjamin-schaffer/benjamin-schaffer.github.io/main/Benjamin%20Schaffer%20Resume.pdf

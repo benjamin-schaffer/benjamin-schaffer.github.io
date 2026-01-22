@@ -36,7 +36,6 @@ Hands-on **component-level design, analysis, and fabrication** projects.
 - [Ultralight Bicycle Wrench (MIE 313)](projects/wrench.md)  
 
   *SOLIDWORKS, ANSYS, and manual machine shop fabrication*
-  - Documentation forthcoming
 
 - *(Future)* Manufacturing fixtures & jigs  
   *Design for repeatability, tolerance, and manufacturability*

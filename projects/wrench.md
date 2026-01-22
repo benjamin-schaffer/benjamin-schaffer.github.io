@@ -1,5 +1,5 @@
 # Lightweight Biking Wrench Design  
-*MIE 313 – Mechanical Design | University of Massachusetts Amherst*
+*MIE 313 – Mechanical Design | University of Massachusetts Amherst Fa2025*
 
 ---
 

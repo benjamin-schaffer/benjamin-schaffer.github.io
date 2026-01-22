@@ -1,6 +1,12 @@
 # Lightweight Biking Wrench Design  
 *MIE 313 – Design of Mechanical Components | University of Massachusetts Amherst | Fa25*
-
+---
+<p align="center">
+  <img src="../Screenshot%202026-01-09%20233509.png" 
+       alt="Final PCB-Mount Assembly" 
+       width="600"/>
+</p>
+<p align="center"><em>Final PCB-mount assembly integrating clearance mount, standoffs, and sheet metal retention features.</em></p>
 ---
 
 ## Project Overview

@@ -1,6 +1,6 @@
 # Lightweight Biking Wrench Design  
 *MIE 313 – Design of Mechanical Components | University of Massachusetts Amherst | Fa25*
----
+
 <p align="center">
   <img src="../Screenshot%202025-12-14%20110059.png" 
        alt="Final PCB-Mount Assembly" 

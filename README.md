@@ -18,7 +18,6 @@ Projects involving **technical leadership, systems integration, and cross-functi
 - [Manufacturing Enterprise – Medical Imaging Assembly (MIE 375)](projects/mie375.md)
 
   *Project Manager for a 40-member manufacturing enterprise delivering a medical imaging PCB-mount assembly*
-  - Some Documentation forthcoming
 
 - [Collegiate Wind Competition – Turbine Design & Manufacturing](projects/wind.md)  
 

@@ -122,11 +122,9 @@ This revealed real-world interface behavior not captured in idealized models and
 ---
 
 ## Supporting Documentation
-- 📄 **Final Project Report (PDF)**  
-  [View](https://github.com/benjamin-schaffer/benjamin-schaffer.github.io/blob/main/MIE%20313%20Final%20Report%20-%20Group%206.pdf?raw=1)
+- 📄 **Final Project Report (PDF)**  [View](https://github.com/benjamin-schaffer/benjamin-schaffer.github.io/blob/main/MIE%20313%20Final%20Report%20-%20Group%206.pdf?raw=1)
 
-- 📊 **Poster Presentation (PDF)**  
-  [View](https://github.com/benjamin-schaffer/benjamin-schaffer.github.io/blob/main/Group%206-313%20Final%20Project.pdf?raw=1)
+- 📊 **Poster Presentation (PDF)**  [View](https://github.com/benjamin-schaffer/benjamin-schaffer.github.io/blob/main/Group%206-313%20Final%20Project.pdf?raw=1)
 
 *(Linked as downloadable PDFs)*
 

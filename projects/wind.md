@@ -80,5 +80,5 @@ As we progress, I’ll add photos, CAD screenshots, build notes, and test result
 ## Supporting Documentation
 
 - 📄 **CWC 2026 Regional Rules (Official Release – Oct 14, 2025)**  
-  [View rules](CWC26_Regional_Rules.pdf)
+  [View rules](https://github.com/benjamin-schaffer/benjamin-schaffer.github.io/blob/main/CWC26%20Regional%20Rules%20-%20251014%20-%20Official%20Release.pdf?raw=1)
 

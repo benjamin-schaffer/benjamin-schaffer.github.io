@@ -6,7 +6,7 @@
        alt="Final PCB-Mount Assembly" 
        width="600"/>
 </p>
-<p align="center"><em>Final PCB-mount assembly integrating clearance mount, standoffs, and sheet metal retention features.</em></p>
+<p align="center"><em>Final Wrench Design.</em></p>
 ---
 
 ## Project Overview

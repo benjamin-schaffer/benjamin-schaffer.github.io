@@ -6,8 +6,6 @@
        alt="Final PCB-Mount Assembly" 
        width="600"/>
 </p>
-<p align="center"><em>Final Wrench Design.</em></p>
----
 
 ## Project Overview
 This project involved the **design, analysis, and validation of a lightweight biking wrench** capable of supporting **250 in-lb of torque** on a ¼-20 bolt and withstanding a **50 N three-point bending test** **without plastic deformation**.

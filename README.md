@@ -5,7 +5,7 @@ Mechanical Engineering student focused on **manufacturing, systems integration, 
 Experienced leading engineering teams of varying sizes and delivering hands-on design, analysis, and fabrication projects.
 
 📄 [Resume](https://raw.githubusercontent.com/benjamin-schaffer/benjamin-schaffer.github.io/main/Benjamin%20Schaffer%20Resume.pdf
-) | 🔗 [LinkedIn](https://www.linkedin.com/in/benjamin-schaffer-1137a2346/) | [GitHub](https://github.com/benjamin-schaffer)
+) | 🔗 [LinkedIn](https://www.linkedin.com/in/benjamin-schaffer-1137a2346/) | ⚙️ [GitHub](https://github.com/benjamin-schaffer)
 
 ---
 

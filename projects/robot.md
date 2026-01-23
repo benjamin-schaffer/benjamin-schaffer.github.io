@@ -85,4 +85,4 @@ The experience represents a meaningful application of **mechanical design, syste
 
 - 📄 **ASME Student Design Competition Rules (2023–2024)**  
   *Defines system constraints, scoring criteria, and operational requirements*  
-  [View rules](https://github.com/benjamin-schaffer/benjamin-schaffer.github.io/blob/main/ASME%20Student%20Design%20Competition%20%E2%80%93%202023-2024%20Rules.pdf?raw=1)
+  [Download rules (PDF)](https://raw.githubusercontent.com/benjamin-schaffer/benjamin-schaffer.github.io/main/ASME%20Student%20Design%20Competition%20%E2%80%93%202023-2024%20Rules.pdf)

@@ -62,7 +62,7 @@ Projects focused on **robotics, embedded systems, and autonomous behavior**.
 
 ---
 
-## Laboratory Testing
+## Laboratory Material Testing
 
 Projects conducted in Lab settings
 

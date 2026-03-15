@@ -66,10 +66,9 @@ Projects focused on **robotics, embedded systems, and autonomous behavior**.
 
 Projects conducted in Lab settings
 
-- [Rockwell Hardness](projects/Rockwell.md)
+- [Rockwell Hardness - MIE 302](projects/Rockwell.md)
 
-  *Rockwell and nanoindentation material testing*
-  - Documentation forthcoming
+  *Rockwell and nanoindentation material testing followed by statistical analysis*
 
 - [Fracture Mechanics](projects/Fracture.md)
 

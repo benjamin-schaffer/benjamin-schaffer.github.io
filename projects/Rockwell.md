@@ -165,3 +165,7 @@ The project illustrates how **experimental measurement, statistical analysis, an
 ---
 
 ## Supporting Documents
+
+- 📄 **Lab Report**  
+  *Outlines Procedure, Results, and Contributions*  
+  [View document]()

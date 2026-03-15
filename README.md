@@ -70,7 +70,7 @@ Projects conducted in Lab settings
 
   *Rockwell and nanoindentation material testing followed by statistical analysis*
 
-- [Fracture Mechanics](projects/Fracture.md)
+- [Tensile Testing - MIE 302](projects/Fracture.md)
 
   *Specimen tensile testing using Instron*
   - Documentation forthcoming

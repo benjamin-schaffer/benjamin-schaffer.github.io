@@ -74,6 +74,7 @@ Projects conducted in Lab settings
 
   *Specimen tensile testing using Instron*
   - Documentation forthcoming
+
 ---
 
 ## Embedded Systems & Programming

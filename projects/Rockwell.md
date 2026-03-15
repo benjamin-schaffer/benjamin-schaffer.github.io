@@ -168,4 +168,4 @@ The project illustrates how **experimental measurement, statistical analysis, an
 
 - 📄 **Lab Report**  
   *Outlines Procedure, Results, and Contributions*  
-  [View document](https://github.com/benjamin-schaffer/benjamin-schaffer.github.io/blob/main/Lab%201%20Group%20Memo%20(1).pdf)
+  [View document](https://raw.githubusercontent.com/benjamin-schaffer/benjamin-schaffer.github.io/main/Lab%201%20Group%20Memo%20(1).pdf)

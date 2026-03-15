@@ -69,10 +69,12 @@ Projects conducted in Lab settings
 - [Rockwell Hardness](projects/Rockwell.md)
 
   *Rockwell and nanoindentation material testing*
+  - Documentation forthcoming
 
 - [Fracture Mechanics](projects/Fracture.md)
 
   *Specimen tensile testing using Instron*
+  - Documentation forthcoming
 ---
 
 ## Embedded Systems & Programming

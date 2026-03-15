@@ -48,7 +48,7 @@ Projects focused on **robotics, embedded systems, and autonomous behavior**.
 
 - [Competitive Robot Design – ASME Student Design Team](projects/robot.md)  
 
-  *Mechanical design and electromechanical integration for autonomous competition robot*
+  *Mechanical design and electromechanical integration for integrated competition robot*
 
 - [Autonomous Vehicle – Embedded Systems Project (ECE 361)](projects/autonomous.md)  
 
@@ -60,6 +60,19 @@ Projects focused on **robotics, embedded systems, and autonomous behavior**.
   *3D-printed frame, flight control, and wireless systems*
   - Documentation forthcoming
 
+---
+
+## Laboratory Testing
+
+Projects conducted in Lab settings
+
+- [Rockwell Hardness](projects/Rockwell.md)
+
+  *Rockwell and nanoindentation material testing*
+
+- [Fracture Mechanics](projects/Fracture.md)
+
+  *Specimen tensile testing using Instron*
 ---
 
 ## Embedded Systems & Programming

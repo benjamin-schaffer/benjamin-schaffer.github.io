@@ -19,7 +19,7 @@ Material specimens were loaded to failure using an **Instron universal testing m
 - Fracture strength
 - Ductility
 
-The experiment also explored relationships between **hardness and strength** as well as correlations between **strength and ductility** across different metals. :contentReference[oaicite:0]{index=0}
+The experiment also explored relationships between **hardness and strength** as well as correlations between **strength and ductility** across different metals.
 
 ---
 
@@ -46,7 +46,7 @@ Three common engineering metals were evaluated:
 - **Alloy 260 Cartridge Brass**
 - **6061-T6 Aluminum**
 
-These materials represent different classes of structural metals with varying combinations of strength and ductility. :contentReference[oaicite:1]{index=1}
+These materials represent different classes of structural metals with varying combinations of strength and ductility.
 
 ---
 
@@ -98,7 +98,7 @@ From the stress–strain curves, the following properties were extracted:
 - **Strain to Failure (StF)**
 - **Ductility**
 
-These parameters describe how materials behave under load and how they fail. :contentReference[oaicite:2]{index=2}
+These parameters describe how materials behave under load and how they fail.
 
 ---
 
@@ -147,9 +147,5 @@ Final quantitative results will be included once full statistical analysis is co
 ---
 
 ## Supporting Documentation
-
-- 📄 **Laboratory Handout**  
-  *Experiment procedures and analysis requirements*  
-  [View document](https://raw.githubusercontent.com/benjamin-schaffer/benjamin-schaffer.github.io/main/Lab%202%20Stress%20Strain_handout_2026.pdf)
 
 *(Final report, stress–strain plots, and data tables will be added after completion of the lab analysis.)*

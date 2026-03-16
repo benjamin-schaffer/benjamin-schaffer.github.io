@@ -62,17 +62,17 @@ Projects focused on **robotics, embedded systems, and autonomous behavior**.
 
 ---
 
-## Laboratory Material Testing
+## Laboratory Materials Testing
 
-Projects conducted in Lab settings
+Experimental projects conducted in controlled lab environments
 
 - [Rockwell Hardness - MIE 302](projects/Rockwell.md)
 
-  *Rockwell and nanoindentation material testing followed by statistical analysis*
+  *Rockwell hardness and nanoindentation testing of heat-treated steel specimens followed by statistical analysis and hypothesis testing*
 
 - [Tensile Testing - MIE 302](projects/Fracture.md)
 
-  *Specimen tensile testing using Instron*
+  *Uniaxial tensile testing of material specimens using an Instron universal testing machine to evaluate mechanical properties including yield strength and ultimate tensile strength*
   - Documentation forthcoming
 
 ---

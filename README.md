@@ -73,7 +73,7 @@ Experimental projects conducted in controlled lab environments
 - [Tensile Testing - MIE 302](projects/Tensile.md)
 
   *Uniaxial tensile testing of material specimens using an Instron universal testing machine to evaluate mechanical properties including yield strength and ultimate tensile strength*
-  - Documentation forthcoming
+
 
 ---
 

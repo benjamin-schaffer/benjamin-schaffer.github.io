@@ -70,7 +70,7 @@ Experimental projects conducted in controlled lab environments
 
   *Rockwell hardness and nanoindentation testing of heat-treated steel specimens followed by statistical analysis and hypothesis testing*
 
-- [Tensile Testing - MIE 302](projects/Fracture.md)
+- [Tensile Testing - MIE 302](projects/Tensile.md)
 
   *Uniaxial tensile testing of material specimens using an Instron universal testing machine to evaluate mechanical properties including yield strength and ultimate tensile strength*
   - Documentation forthcoming
